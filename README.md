@@ -12,7 +12,7 @@ The projects are categorized into various categories listed as follows:-
   
    #### o Supervised Learning - Simple Linear Regression Project
       
-          A Simple Linear Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight      
-          control product.
+          A Simple Linear Regression Project to model the linear relationship between Sales and Advertising 
+          dataset for a dietary weight control product.
 
 
