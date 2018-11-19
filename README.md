@@ -10,4 +10,4 @@ The projects are categorized into various categories listed as follows:-
  
    ### •	Machine Learning with Python
    
-   [Supervised Learning - Simple Linear Regression Project](https://github.com/pb111/data-science-portfolio/blob/master/SLR%20Project.ipynb): A Simple Linear Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight control product.
+   o [Supervised Learning - Simple Linear Regression Project](https://github.com/pb111/data-science-portfolio/blob/master/SLR%20Project.ipynb): A Simple Linear Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight control product.
