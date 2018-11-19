@@ -8,9 +8,9 @@ The projects are categorized into various categories listed as follows:-
 
 ## Contents
  
- ### •	Machine Learning with Python
+   ### •	Machine Learning with Python
   
-  #### o Supervised Learning - Simple Linear Regression Project
+   #### o Supervised Learning - Simple Linear Regression Project
       
          A Simple Linear Regression Project to model the linear relationship between Sales and Advertising 
          dataset for a dietary weight control product.
