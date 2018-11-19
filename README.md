@@ -6,13 +6,14 @@ The projects are done on Jupyter Notebooks (Notebook Server 5.5.0). The server i
 
 The projects are categorized into various categories listed as follows:- 
 
-## Contents
+  ## Contents
  
    ### •	Machine Learning with Python
   
-   #### o [Supervised Learning - Simple Linear Regression Project](https://github.com/pb111/data-science-portfolio/blob/master/SLR%20Project.ipynb)
+   #### o [Supervised Learning - Simple Linear Regression Project](https://github.com/pb111/data-science-  
+           portfolio/blob/master/SLR%20Project.ipynb)
       
-         A Simple Linear Regression Project to model the linear relationship between Sales and Advertising 
+      #### A Simple Linear Regression Project to model the linear relationship between Sales and Advertising 
          dataset for a dietary weight control product.
 
 
