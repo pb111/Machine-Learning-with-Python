@@ -13,7 +13,7 @@ The projects are divided into various categories listed as follows:-
 
    
    
-     #### Supervised Learning : Regression Projects 
+   ####Supervised Learning : Regression Projects 
    
    [Simple Linear Regression Project](https://github.com/pb111/data-science-portfolio/blob/master/SLR%20Project.ipynb): A Simple  Linear   Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight control product.
      
@@ -21,4 +21,4 @@ The projects are divided into various categories listed as follows:-
        
  ### Data Cleaning and Preprocessing Projects
    
-[Data Preprocessing Project- Dealing with missing numerical values](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-   Missing-Numerical-Values): This project describes various techniques to deal with missing numerical values. 
+[Data Preprocessing Project- Dealing with missing numerical values](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Missing-Numerical-Values) : This project describes various techniques to deal with missing numerical values. 
