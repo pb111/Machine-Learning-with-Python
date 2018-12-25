@@ -23,4 +23,4 @@ The projects are divided into various categories listed as follows:-
    
    #### Data Cleaning and Preprocessing Projects
    
-   [Data Preprocessing Project- Dealing with missing numerical values](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-   Missing-Numerical-Values): This project describes various techniques to deal with missing numerical values. 
+  [Data Preprocessing Project- Dealing with missing numerical values] (https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-   Missing-Numerical-Values): This project describes various techniques to deal with missing numerical values. 
