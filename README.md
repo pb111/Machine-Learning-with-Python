@@ -12,7 +12,7 @@ The projects are divided into various categories listed as follows:-
       
       -  ### Supervised Learning : Regression Projects 
    
-       - [Simple Linear Regression Project](https://github.com/pb111/data-science-portfolio/blob/master/SLR%20Project.ipynb): A Simple  Linear   Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight control product.   
+       - [Simple Linear Regression Project](https://github.com/pb111/Simple-Linear-Regression-Project/blob/master/SLRProject.ipynb): A Simple Linear Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight control product.   
            
    -  ### Data Cleaning and Preprocessing Projects
    
