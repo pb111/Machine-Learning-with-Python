@@ -18,4 +18,4 @@ The projects are divided into various categories listed as follows:-
    
        - [Data Preprocessing Project- Dealing with missing numerical values](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Missing-Numerical-Values/blob/master/Data%20Preprocessing%20Project%20-%20Dealing%20with%20Missing%20Numerical%20Values.ipynb) : This project describes various techniques to deal with missing numerical values. 
        
-       - [Data Preprocessing Project- Dealing with text and categorical data](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Text-and-Categorical-Data-/blob/master/README.md): This project illustrates useful techniques to deal with the text and categorical data. 
+       - [Data Preprocessing Project- Dealing with text and categorical data](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Text-and-Categorical-Data-/blob/master/Data%20Preprocessing%20Project%20-%20Dealing%20with%20Text%20and%20Categorical%20data.ipynb): This project illustrates useful techniques to deal with the text and categorical data. 
