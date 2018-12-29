@@ -21,3 +21,8 @@ The projects are divided into various categories listed as follows:-
        - [Data Preprocessing Project- Dealing with text and categorical data](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Text-and-Categorical-Data-/blob/master/Data%20Preprocessing%20Project%20-%20Dealing%20with%20Text%20and%20Categorical%20data.ipynb): This project illustrates useful techniques to deal with the text and categorical data. 
        
        - [Data Preprocessing Project-Feature Scaling](https://github.com/pb111/Data-Preprocessing-Project-Feature-Scaling/blob/master/README.md): This project demonstrates useful techniques related to Feature Scaling.
+       
+       
+   - ### Data Visualization Projects
+     
+       - [Data Visualization with Matplotlib](https://github.com/pb111/Data-Visualization-with-Matplotlib-Project/blob/master/README.md): In this project, I describe Matplotlib.
