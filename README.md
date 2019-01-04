@@ -25,4 +25,9 @@ The projects are divided into various categories listed as follows:-
        
    - ### Data Visualization Projects
      
-       - [Data Visualization with Matplotlib](https://github.com/pb111/Data-Visualization-with-Matplotlib-Project/blob/master/README.md): In this project, I describe Matplotlib.
+       - [Data Visualization with Matplotlib](https://github.com/pb111/Data-Visualization-with-Matplotlib-Project): In this project, I describe Matplotlib.
+       
+       
+        - [Data Visualization with Seaborn](https://github.com/pb111/Data-Visualization-with-Seaborn): In this project, I describe Seaborn.
+       
+       
