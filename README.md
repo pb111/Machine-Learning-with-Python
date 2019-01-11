@@ -23,7 +23,7 @@ The projects are divided into various categories listed as follows:-
        - [Data Preprocessing Project-Feature Scaling](https://github.com/pb111/Data-Preprocessing-Project-Feature-Scaling/blob/master/Data%20Preprocessing%20Project%20-%20Feature%20Scaling.ipynb): This project demonstrates useful techniques related to Feature Scaling.
        
        
-   - ### Data Analysis Projects
+   - ### Data Analysis Project
        
        
    - ### Data Visualization Projects
