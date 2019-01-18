@@ -28,9 +28,9 @@ The projects are divided into various categories listed as follows:-
        
    - ### Data Visualization Projects
      
-       - [Data Visualization with Matplotlib](https://github.com/pb111/Data-Visualization-with-Matplotlib-Project): In this project, I describe Matplotlib.
+       - [Data Visualization with Matplotlib](https://github.com/pb111/Data-Visualization-with-Matplotlib-Project): In this project, I describe Matplotlib, which is the basic plotting library of Python programming language.
        
        
-        - [Data Visualization with Seaborn](https://github.com/pb111/Data-Visualization-with-Seaborn): In this project, I describe Seaborn.
+       - [Data Visualization with Seaborn](https://github.com/pb111/Data-Visualization-with-Seaborn): In this project, I describe Seaborn.
        
        
