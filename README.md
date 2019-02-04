@@ -16,7 +16,7 @@ The projects are divided into various categories listed as follows:-
            
    -  ### Data Cleaning and Preprocessing Projects
    
-       - [Data Cleaning with Python, NumPy and Pandas](https://github.com/pb111/Data-Cleaning-with-Python-NumPy-and-Pandas): In this
+       - [Data Cleaning with Python and Pandas](https://github.com/pb111/Data-Cleaning-with-Python-NumPy-and-Pandas): In this
        project, I present useful techniques to clean a messy dataset to convert it into tidy data.
        
    
