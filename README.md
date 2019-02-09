@@ -29,7 +29,7 @@ The projects are divided into various categories listed as follows:-
    - ### Data Analysis Projects
    
       - [Exploratory Data Analysis Project](https://github.com/pb111/Exploratory-Data-Analysis-Project): This project is all about
-      Exploratory Data Analysis. In this project, I explore a dataset.
+      Exploratory Data Analysis. In this project, I explore the Absenteeism at work dataset.
        
        
    - ### Data Visualization Projects
