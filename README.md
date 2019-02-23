@@ -50,3 +50,4 @@ a Multiple Linear Regression.
        - [Data Visualization with Seaborn](https://github.com/pb111/Data-Visualization-with-Seaborn): In this project, I describe Seaborn, which is the Python data visualization library based on Matplotlib.
        
        
+   - ### Miscellaneous Projects
