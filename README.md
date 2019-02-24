@@ -55,3 +55,5 @@ a Multiple Linear Regression.
        
        
    - ### Miscellaneous Projects
+   
+       - [Web scrapping with Python and BeautifulSoup](https://github.com/pb111/Web-scrapping-with-Python-and-BeautifulSoup/blob/master/README.md)
