@@ -19,7 +19,7 @@ The projects are divided into various categories listed as follows:-
        - [Multiple Linear Regression Project](https://github.com/pb111/Multiple-Linear-Regression-Project): In this project, I build
 a Multiple Linear Regression.
 
-       - ### Supervised Learning : Classification Projects
+       - ### Supervised Learning : Classification Project
        
        
        
