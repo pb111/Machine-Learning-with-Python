@@ -44,6 +44,11 @@ The projects are divided into various categories listed as follows:-
    - ### Data Analysis Projects
    
       - [Exploratory Data Analysis with Python Project](https://github.com/pb111/Exploratory-Data-Analysis-with-Python-Project/blob/master/Exploratory%20Data%20Analysis%20with%20Python.ipynb): This project is all about Exploratory Data Analysis. In this project, I explore the Absenteeism at work dataset. I discuss univariate and multivariate useful techniques to explore this dataset.
+      
+      - [Data Analysis with Pandas](https://github.com/pb111/Data-Analysis-with-Pandas): In this project, I discuss useful data analysis
+      with pandas techniques.
+      
+       - [Data Analysis with NumPy](https://github.com/pb111/Data-Analysis-with-NumPy): In this project, I discuss useful data analysis       with numpy techniques.
        
        
    - ### Data Visualization Projects
