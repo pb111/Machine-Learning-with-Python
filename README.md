@@ -50,6 +50,7 @@ The projects are divided into various categories listed as follows:-
       
        - [Data Analysis with NumPy](https://github.com/pb111/Data-Analysis-with-NumPy): In this project, I discuss useful data analysis       with numpy techniques.
        
+       - [Time Series Analysis with Python](https://github.com/pb111/Time-series-analysis-with-Python): Time Series analysis project.
        
    - ### Data Visualization Projects
      
