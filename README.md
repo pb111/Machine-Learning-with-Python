@@ -29,6 +29,15 @@ The projects are divided into various categories listed as follows:-
    -  ### Statistical Modeling Projects
    
    
+       - Descriptive Statistics Project
+       
+       
+       - Inferential statistics Project
+       
+       
+       - Hypothesis Testing Project
+   
+   
    -  ### Data Cleaning and Preprocessing Projects
    
        - [Data Cleaning with Python and Pandas](https://github.com/pb111/Data-Cleaning-with-Python-NumPy-and-Pandas/blob/master/Data%20Cleaning%20with%20Python%20and%20Pandas.ipynb): In this project, I present useful techniques to clean a messy dataset to convert it into tidy data format.
