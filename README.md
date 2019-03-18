@@ -23,7 +23,7 @@ The projects are divided into various categories listed as follows:-
        
        
        
-       - ### Unsupervised Learning Project
+       - ### Unsupervised Learning Projects
        
   
    -  ### Statistical Modeling Projects
