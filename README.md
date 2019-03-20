@@ -59,7 +59,9 @@ The projects are divided into various categories listed as follows:-
 dataset downloaded from Kaggle website.
 
       
-       - [Data Analysis with NumPy](https://github.com/pb111/Data-Analysis-with-NumPy): In this project, I discuss useful data analysis       with numpy techniques.
+       - [Data Analysis with NumPy](https://github.com/pb111/Data-Analysis-with-NumPy): NumPy is the fundamental library of Python 
+which is required for scientific computing. In this project, I explore NumPy and various data analysis tools of NumPy.
+       
        
        - [Time Series Analysis with Python](https://github.com/pb111/Time-series-analysis-with-Python): Time Series analysis project.
        
