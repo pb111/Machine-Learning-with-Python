@@ -83,7 +83,7 @@ dataset downloaded from Kaggle website.
        - [Data Analysis with NumPy](https://github.com/pb111/Data-Analysis-with-NumPy/blob/master/Data%20Analysis%20with%20NumPy.ipynb): **NumPy** is the fundamental library of Python which is required for scientific computing. In this project, I explore NumPy and various data analysis tools of NumPy.
        
        
-       - [Time Series Analysis with Python](https://github.com/pb111/Time-series-analysis-with-Python): Time Series analysis project.
+       - [Time Series Analysis with Python](https://github.com/pb111/Time-series-analysis-with-Python): Time series analysis means analyzing the time series data using various statistical tools and techniques. In this project, I analyze the time series dataset – **daily demand forecasting orders** downloaded from the UCI machine learning repository.
        
    - ### Data Visualization Projects
      
