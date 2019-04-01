@@ -83,7 +83,7 @@ dataset downloaded from Kaggle website.
        - [Data Analysis with NumPy](https://github.com/pb111/Data-Analysis-with-NumPy/blob/master/Data%20Analysis%20with%20NumPy.ipynb): **NumPy** is the fundamental library of Python which is required for scientific computing. In this project, I explore NumPy and various data analysis tools of NumPy.
        
        
-       - [Time Series Analysis with Python](https://github.com/pb111/Time-series-analysis-with-Python): A time series is a series of data points recorded at different time intervals. The time series analysis means analyzing the time series data using various statistical tools and techniques. In this project, I implement a seasonal ARIMA time series model in Python to predict Occupancy rates of car parks in **Parking Birmingham** Data Set.
+       - [Time Series Analysis with Python](https://github.com/pb111/Time-series-analysis-with-Python/blob/master/Time%20Series%20Analysis%20in%20Python.ipynb): A time series is a series of data points recorded at different time intervals. The time series analysis means analyzing the time series data using various statistical tools and techniques. In this project, I implement a **Seasonal ARIMA time series model** in Python to predict Occupancy rates of car parks in **Parking Birmingham** Data Set.
        
        
    - ### Data Visualization Projects
