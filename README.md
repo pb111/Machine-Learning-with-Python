@@ -28,7 +28,7 @@ The projects are divided into various categories listed as follows:-
       - ### Supervised Learning : Classification Projects
       
       
-          * [Logistic Regression Project]
+          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project)
           
           
           * [Support Vector Machines Project]
