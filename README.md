@@ -71,6 +71,11 @@ The projects are divided into various categories listed as follows:-
        - [Data Preprocessing Project-Feature Scaling](https://github.com/pb111/Data-Preprocessing-Project-Feature-Scaling/blob/master/Data%20Preprocessing%20Project%20-%20Feature%20Scaling.ipynb): This project demonstrates useful techniques related to Feature Scaling.
        
        
+       - [Data Preprocessing Project- Imbalanced classes problem](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-imbalanced-classes-problem/blob/master/README.md): This project demonstrates imbalanced classes problem.
+       
+       
+       
+       
    - ### Data Analysis Projects
    
       - [Exploratory Data Analysis with Python](https://github.com/pb111/Exploratory-Data-Analysis-with-Python-Project/blob/master/Exploratory%20Data%20Analysis%20with%20Python.ipynb): This project is all about Exploratory Data Analysis. In this project, I explore the **Absenteeism at work dataset**. I discuss univariate and multivariate useful techniques to explore this dataset.
