@@ -71,7 +71,7 @@ The projects are divided into various categories listed as follows:-
        - [Data Preprocessing Project-Feature Scaling](https://github.com/pb111/Data-Preprocessing-Project-Feature-Scaling/blob/master/Data%20Preprocessing%20Project%20-%20Feature%20Scaling.ipynb): This project demonstrates useful techniques related to Feature Scaling.
        
        
-       - [Data Preprocessing Project- Imbalanced classes problem](https://github.com/pb111/Data-Preprocessing-Project-Imbalanced-classes-problem/blob/master/README.md): Imbalanced classification is one of the major problems in machine learning. In this data preprocessing project, I discuss imbalanced classification problem and the approaches to deal with this problem. 
+       - [Data Preprocessing Project- Imbalanced classification problem](https://github.com/pb111/Data-Preprocessing-Project-Imbalanced-classes-problem/blob/master/README.md): Imbalanced classification is one of the major problems in machine learning. In this data preprocessing project, I discuss imbalanced classification problem and the approaches to deal with this problem. 
        
        
        
