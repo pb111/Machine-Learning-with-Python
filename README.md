@@ -50,7 +50,7 @@ The projects are divided into various categories listed as follows:-
    -  ### Statistical Modeling Projects
    
    
-       - Descriptive Statistics Project
+       - [Descriptive Statistics Project](https://github.com/pb111/Descriptive-Statistics-Project/blob/master/README.md) Descriptive Statistics
        
        
        - Inferential statistics Project
