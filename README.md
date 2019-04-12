@@ -53,10 +53,11 @@ The projects are divided into various categories listed as follows:-
        - [Descriptive Statistics Project](https://github.com/pb111/Descriptive-Statistics-Project/blob/master/README.md) Descriptive Statistics
        
        
-       - [Inferential statistics Project](https://github.com/pb111/Inferential-Statistics-Project/blob/master/README.md) Inferential Statistics
+       - [Inferential Statistics Project](https://github.com/pb111/Inferential-Statistics-Project/blob/master/README.md) Inferential Statistics
        
        
-       - Hypothesis Testing Project
+       - [Hypothesis Testing Project](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/README.md) Hypothesis Testing
+       
    
    
    -  ### Data Cleaning and Preprocessing Projects
