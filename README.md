@@ -33,7 +33,7 @@ The projects are divided into various categories listed as follows:-
           * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/README.md)
           
           
-          * [K Nearest Neighbours Project](https://github.com/pb111/K-Nearest-Neighbours-Project)
+          * [K Nearest Neighbours Project](https://github.com/pb111/K-Nearest-Neighbours-Project/blob/master/README.md)
           
           
           * [Naive Bayes Classification Project]
