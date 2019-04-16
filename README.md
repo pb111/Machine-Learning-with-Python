@@ -56,6 +56,10 @@ The projects are divided into various categories listed below:-
    
    
    - ### Natural Language Processing Projects
+   
+   
+   
+   - ### Deep Learning Projects
        
        
        
