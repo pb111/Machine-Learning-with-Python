@@ -6,7 +6,7 @@ All the projects are done on Jupyter Notebooks (Notebook Server 5.6.0). The serv
 
 I will keep adding more projects as I complete them. The Jupyter Notebook links in all the projects have been provided.
 
-The projects are divided into various categories listed as follows:- 
+The projects are divided into various categories listed below:- 
 
 ## Contents
  
