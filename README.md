@@ -36,7 +36,7 @@ The projects are divided into various categories listed as follows:-
           * [K Nearest Neighbours Project](https://github.com/pb111/K-Nearest-Neighbours-Project/blob/master/README.md)
           
           
-          * [Naive Bayes Classification Project]
+          * [Naive Bayes Classification Project](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/README.md)
        
        
        
