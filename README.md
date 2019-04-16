@@ -50,6 +50,10 @@ The projects are divided into various categories listed below:-
        
        
        
+   - ### Recommender Systems Project
+       
+       
+       
        
   
    -  ### Statistical Modeling Projects
