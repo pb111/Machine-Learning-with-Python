@@ -45,6 +45,12 @@ The projects are divided into various categories listed below:-
        
           * [K Means Clustering Project]
        
+       
+       - ### Reinforcement Learning Project
+       
+       
+       
+       
   
    -  ### Statistical Modeling Projects
    
