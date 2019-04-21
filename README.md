@@ -87,7 +87,7 @@ The projects are divided into various categories listed below:-
        
        - [Data Preprocessing Project- Dealing with text and categorical data](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Text-and-Categorical-Data-/blob/master/Data%20Preprocessing%20Project%20-%20Dealing%20with%20Text%20and%20Categorical%20data.ipynb): This project illustrates useful techniques to deal with the text and categorical data. 
        
-       - [Data Preprocessing Project-Feature Scaling](https://github.com/pb111/Data-Preprocessing-Project-Feature-Scaling/blob/master/Data%20Preprocessing%20Project%20-%20Feature%20Scaling.ipynb): **Feature Scaling** This project demonstrates useful techniques related to Feature Scaling.
+       - [Data Preprocessing Project-Feature Scaling](https://github.com/pb111/Data-Preprocessing-Project-Feature-Scaling/blob/master/Data%20Preprocessing%20Project%20-%20Feature%20Scaling.ipynb): **Feature Scaling** is the process This project demonstrates useful techniques related to Feature Scaling.
        
        
        - [Data Preprocessing Project- Imbalanced classes problem](https://github.com/pb111/Data-Preprocessing-Project-Imbalanced-Classes-Problem/blob/master/Data%20Preprocessing%20Project-Imbalanced%20Classes%20Problem.ipynb): Imbalanced classes is one of the major problems in machine learning. In this project, I discuss imbalanced classes problem and the approaches to deal with this problem. I have used the **Credit Card Fraud Detection** dataset, downloaded from the Kaggle website, for this project.
