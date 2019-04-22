@@ -27,7 +27,7 @@ The projects are divided into various categories listed below:-
       - ### Supervised Learning : Classification Projects
       
       
-          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project): In this project, I implement Logistic Regression with Python. I build a classifier to predict whether or not it will rain tomorrow in Australia by training a binary classification model using Logistic Regression. I have used the **Rain in Australia** data set downloaded from the Kaggle website for this project.
+          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project): In this project, I implement Logistic Regression with Python. I build a binary classifier to predict whether or not it will rain tomorrow in Australia by training a binary classification model using Logistic Regression. I have used the **Rain in Australia** data set downloaded from the Kaggle website for this project.
           
           
           * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/README.md)
