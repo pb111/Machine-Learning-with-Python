@@ -94,7 +94,7 @@ The projects are divided into various categories listed below:-
        
        
        
-       - [Data Preprocessing Project - Feature Engineering](https://github.com/pb111/Data-Preprocessing-Project-Feature-Engineering/blob/master/README.md): Feature Engineering
+       - [Data Preprocessing Project - Feature Engineering](https://github.com/pb111/Data-Preprocessing-Project-Feature-Engineering/blob/master/README.md): This project is about **Feature Engineering**.
        
        
        
