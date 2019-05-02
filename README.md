@@ -30,7 +30,7 @@ The projects are divided into various categories listed below:-
           * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project): In this project, I implement Logistic Regression with Python. I build a binary classifier to predict whether or not it will rain tomorrow in Australia by training a binary classification model using Logistic Regression. I have used the **Rain in Australia** data set downloaded from the Kaggle website for this project. I have demonstrated important **Feature Engineering** techniques in this project.
           
           
-          * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/README.md)
+          * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/README.md): In this project, I build an SVM classifier to predict a Pulsar Star from the HTRU2 (High Time Resolution Universe Survey) survey. I have used the **Predicting a Pulsar Star** dataset downloaded from the Kaggle website for this project.
           
           
           * [K Nearest Neighbours Project](https://github.com/pb111/K-Nearest-Neighbours-Project/blob/master/README.md)
