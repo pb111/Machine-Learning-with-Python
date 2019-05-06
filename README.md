@@ -27,7 +27,7 @@ The projects are divided into various categories listed below:-
       - ### Supervised Learning : Classification Projects
       
       
-          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project): In this project, I implement Logistic Regression with Python. I build a binary classifier to predict whether or not it will rain tomorrow in Australia by training a binary classification model using Logistic Regression. I have used the **Rain in Australia** data set downloaded from the Kaggle website for this project. I have demonstrated important **Feature Engineering** techniques in this project.
+          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I implement Logistic Regression with Python. I build a binary classifier to predict whether or not it will rain tomorrow in Australia by training a binary classification model using Logistic Regression. I have used the **Rain in Australia** data set downloaded from the Kaggle website for this project. I have demonstrated important **Feature Engineering** techniques in this project.
           
           
           * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/README.md): In this project, I build an SVM classifier to predict a Pulsar Star from the HTRU2 (High Time Resolution Universe Survey) survey. I have used the **Predicting a Pulsar Star** dataset downloaded from the Kaggle website for this project.
