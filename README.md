@@ -39,6 +39,9 @@ The projects are divided into various categories listed below:-
           * [Naive Bayes Classification Project](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/README.md)
        
        
+          * [Decision Tree and Random Forest Classifier Project](https://github.com/pb111/Decision-Tree-and-Random-Forest-Classifier-Project/blob/master/README.md)
+          
+          
        
        - ### Unsupervised Learning Projects
        
