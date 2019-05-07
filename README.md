@@ -47,7 +47,12 @@ The projects are divided into various categories listed below:-
        
        
           * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md)
-       
+          
+          
+          
+          * [Hierarchical Clustering Project]
+          
+          
        
        - ### Reinforcement Learning Project
        
