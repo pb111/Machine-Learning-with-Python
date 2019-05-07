@@ -50,7 +50,7 @@ The projects are divided into various categories listed below:-
           
           
           
-          * [Hierarchical Clustering Project]
+          * [Hierarchical Clustering Project](https://github.com/pb111/Hierarchical-Clustering-Project/blob/master/README.md)
           
           
        
