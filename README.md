@@ -32,7 +32,7 @@ model to predict whether it will rain tomorrow in Australia or not. I train a bi
 **hyper parameter optimization using GridSearch CV** in this project.
           
           
-          * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/README.md): In this project, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the **PREDICTING A PULSAR STAR** dataset for this project, downloaded from the Kaggle website.
+          * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/README.md): In this project, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the **Predicting a Pulsar Star** dataset for this project, downloaded from the Kaggle website.
           
           
           * [K Nearest Neighbours Project](https://github.com/pb111/K-Nearest-Neighbours-Project/blob/master/README.md)
