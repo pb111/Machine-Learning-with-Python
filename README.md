@@ -27,7 +27,7 @@ The projects are divided into various categories listed below:-
       - ### Supervised Learning : Classification Projects
       
       
-          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a binary classification 
+          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I train a binary classification 
 Logistic Regression model to predict whether or not it will rain tomorrow in Australia. I train a binary classification model using Logistic Regression. I have used the **Rain in Australia** data set downloaded from the Kaggle website. I have demonstrated **Feature Engineering** techniques in this project. I have also demonstrated **Recursive Feature Elimination with Cross-validation**, **k-fold Cross Validation** and 
 **hyper parameter optimization using GridSearch CV** in this project.
           
