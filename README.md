@@ -28,7 +28,7 @@ The projects are divided into various categories listed below:-
       
       
           * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I train a binary classification 
-Logistic Regression model to predict whether or not it will rain tomorrow in Australia. I have used **Rain in Australia** dataset from the Kaggle website. I have demonstrated feature Engineering techniques in this project. I have also demonstrated **Recursive Feature Elimination with Cross-validation**, **k-fold Cross Validation** and **GridSearch CV** in this project.
+Logistic Regression model to predict whether or not it will rain tomorrow in Australia. I have used **Rain in Australia** dataset from the Kaggle website. I have demonstrated feature Engineering techniques alongwith **Recursive Feature Elimination with Cross-validation**, **k-fold Cross Validation** and **GridSearch CV** in this project.
           
                     
           * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/README.md): In this project, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the **Predicting a Pulsar Star** dataset for this project, downloaded from the Kaggle website. I have also discussed the **kernel trick** in this project.
