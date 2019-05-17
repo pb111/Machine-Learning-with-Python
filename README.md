@@ -16,7 +16,7 @@ The projects are divided into various categories listed below:-
    
           * [Simple Linear Regression Project](https://github.com/pb111/Simple-Linear-Regression-Project/blob/master/SLRProject.ipynb): A Simple Linear Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight control product.   
        
-          * [Multiple Linear Regression using Scikit-Learn](https://github.com/pb111/Multiple-Linear-Regression-Project/blob/master/Multiple%20Linear%20Regression%20using%20Scikit-Learn.ipynb): In this project, I build a Multiple Linear Regression model to estimate the relative CPU performance of computer hardware dataset. I discuss the linear regression assumptions and various tools to estimate the model performance.
+          * [Multiple Linear Regression Project](https://github.com/pb111/Multiple-Linear-Regression-Project/blob/master/Multiple%20Linear%20Regression%20using%20Scikit-Learn.ipynb): In this project, I build a Multiple Linear Regression model to estimate the relative CPU performance of computer hardware dataset. I discuss the linear regression assumptions and various tools to estimate the model performance.
           
           
           * [Decision Tree and Random Forest Regression Project](https://github.com/pb111/Decision-Tree-and-Random-Forest-Regression-Project/blob/master/README.md)
