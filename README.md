@@ -40,7 +40,7 @@ The projects are divided into various categories listed below:-
           * [Decision Tree Classifier Project](https://github.com/pb111/Decision-Tree-Classifier-Project/blob/master/README.md)
           
           
-          * [Random Forest Classifier Project]()
+          * [Random Forest Classifier Project](https://github.com/pb111/Random-Forest-Classifier-Project/blob/master/README.md)
           
           
        
