@@ -37,7 +37,7 @@ The projects are divided into various categories listed below:-
           * [Naive Bayes Classification Project](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/README.md): In this project, I build a Naïve Bayes Classifier to classify a person's salary. I implement Naive Bayes Classification with Python and Scikit-Learn to predict whether a person makes over 50K a year. I have used the **Adult Data Set** for this project, downloaded from the UCI Machine Learning Repository website.
        
        
-          * [Decision Tree Classifier Project](https://github.com/pb111/Decision-Tree-and-Random-Forest-Classifier-Project/blob/master/README.md)
+          * [Decision Tree Classifier Project](https://github.com/pb111/Decision-Tree-Classifier-Project/blob/master/README.md)
           
           
           * [Random Forest Classifier Project]()
