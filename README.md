@@ -34,7 +34,7 @@ The projects are divided into various categories listed below:-
           * [k Nearest Neighbours Project](https://github.com/pb111/k-Nearest-Neighbours-Project/blob/master/k%20Nearest%20Neighbours%20with%20Python%20and%20Scikit-Learn.ipynb): k Nearest Neighbours is a very simple and one of the topmost machine learning algorithms. In this project, I build a k Nearest Neighbours classifier to classify the patients suffering from Breast Cancer. I have used the **Breast Cancer Wisconsin (Original) Data Set** downloaded from the UCI Machine Learning Repository.
           
           
-          * [Naive Bayes Classification Project](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/README.md): In this project, I build a Naïve Bayes Classifier to classify a person's salary. I implement Naive Bayes Classification with Python and Scikit-Learn to predict whether a person makes over 50K a year. I have used the **Adult Data Set** for this project, downloaded from the UCI Machine Learning Repository website.
+          * [Naive Bayes Classification Project](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/Na%C3%AFve%20Bayes%20Classification%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a Naïve Bayes Classifier to classify a person's salary. I implement Naive Bayes Classification with Python and Scikit-Learn to predict whether a person makes over 50K a year. I have used the **Adult Data Set** for this project, downloaded from the UCI Machine Learning Repository website.
        
        
           * [Decision Tree Classifier Project](https://github.com/pb111/Decision-Tree-Classifier-Project/blob/master/README.md)
