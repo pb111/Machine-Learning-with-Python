@@ -43,6 +43,9 @@ The projects are divided into various categories listed below:-
           * [Random Forest Classifier Project](https://github.com/pb111/Random-Forest-Classifier-Project/blob/master/README.md)
           
           
+          * [XGBoost Classifier Project](https://github.com/pb111/XGBoost-Classifier-Project)
+          
+          
        
        - ### Unsupervised Learning Projects
        
