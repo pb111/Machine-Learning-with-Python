@@ -46,6 +46,8 @@ The projects are divided into various categories listed below:-
           * [XGBoost Classifier Project](https://github.com/pb111/XGBoost-Classifier-Project)
           
           
+          * [AdaBoost Classifier Project](https://github.com/pb111/AdaBoost-Classifier-Project)
+          
        
        - ### Unsupervised Learning Projects
        
