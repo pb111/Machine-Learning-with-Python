@@ -21,7 +21,7 @@ The projects are divided into various categories listed below:-
           
           * [Polynomial Regression Project](https://github.com/pb111/Decision-Tree-and-Random-Forest-Regression-Project/blob/master/README.md)
           
-          * [Regularized Regression Project]()
+          * [Regularized Regression Project](https://github.com/pb111/Regularized-Regression-Project)
           
           
           
