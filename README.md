@@ -19,7 +19,10 @@ The projects are divided into various categories listed below:-
           * [Multiple Linear Regression Project](https://github.com/pb111/Multiple-Linear-Regression-Project/blob/master/Multiple%20Linear%20Regression%20using%20Scikit-Learn.ipynb): In this project, I build a Multiple Linear Regression model to estimate the relative CPU performance of computer hardware dataset. I discuss the linear regression assumptions and various tools to estimate the model performance.
           
           
-          * [Decision Tree and Random Forest Regression Project](https://github.com/pb111/Decision-Tree-and-Random-Forest-Regression-Project/blob/master/README.md)
+          * [Polynomial Regression Project](https://github.com/pb111/Decision-Tree-and-Random-Forest-Regression-Project/blob/master/README.md)
+          
+          * [Regularized Regression Project]()
+          
           
           
           
