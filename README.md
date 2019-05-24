@@ -43,7 +43,7 @@ The projects are divided into various categories listed below:-
           * [Decision Tree Classification Project](https://github.com/pb111/Decision-Tree-Classifier-Project/blob/master/README.md): Classification and Regression Trees or **CART** are one of the most popular and easy to interpret machine learning algorithms. In this project, I build a Decision Tree Classifier to predict the safety of the car. I implement Decision Tree Classification with Python and Scikit-Learn. I have used the **Car Evaluation Data Set** for this project, downloaded from the UCI Machine Learning Repository website.
           
           
-          * [Random Forest Classifier Project](https://github.com/pb111/Random-Forest-Classifier-Project/blob/master/README.md): Random Forest is a supervised machine learning algorithm which is based on ensemble learning. In this project, I build a Random Forest Classifier to predict the safety of the car. I implement Random Forest Classification with Python and Scikit-Learn. I have used the **Car Evaluation Data Set** for this project, downloaded from the UCI Machine Learning Repository website.
+          * [Random Forest Classifier Project](https://github.com/pb111/Random-Forest-Classifier-Project/blob/master/README.md): Random Forest is a supervised machine learning algorithm which is based on ensemble learning. In this project, I build a **Random Forest Classifier** to predict the safety of the car. I implement Random Forest Classification with Python and Scikit-Learn. I have used the **Car Evaluation Data Set** for this project, downloaded from the UCI Machine Learning Repository website.
           
           
           * [XGBoost Classifier Project](https://github.com/pb111/XGBoost-Classifier-Project)
