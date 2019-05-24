@@ -4,7 +4,7 @@ This repository contains Data Science projects in Python programming language co
 
 All the projects are done on Jupyter Notebooks (Notebook Server 5.6.0). The server is running on Python version 3.7.0.
 
-I will keep adding more projects as I complete them. The Jupyter Notebook links in all the projects have been provided.
+I will keep adding more projects as I complete them. The Jupyter Notebook links in all the projects have been provided. The projects description are given in the readme document.
 
 The projects are divided into various categories listed below:- 
 
