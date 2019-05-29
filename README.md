@@ -47,7 +47,7 @@ The projects are divided into various categories listed below:-
 
 
                     
-          * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classifier-Project)
+          * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classifier-Project): XGBoost is the most powerful machine learning algorithm these days. In this project, I have build an XGBoost Classifier to predict the safety of the car. I have used the same **Car Evaluation Data Set** for this project as above. I have shown that the XGboost Classifer provide higher accuracy than the above Decision-Tree and Random Forest Classifier.
           
           
           * [AdaBoost Classifier Project](https://github.com/pb111/AdaBoost-Classifier-Project)
