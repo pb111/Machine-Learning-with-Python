@@ -47,7 +47,7 @@ The projects are divided into various categories listed below:-
 
 
                     
-          * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classifier-Project): XGBoost is the most powerful machine learning algorithm these days. In this project, I have build an XGBoost Classifier to predict the safety of the car. I have used the same **Car Evaluation Data Set** for this project as above. I have shown that the XGboost Classifer provide higher accuracy than the above Decision-Tree and Random Forest Classifier.
+          * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classifier-Project): **XGBoost** is an acronym for **Extreme Gradient Boosting**. It is a powerful machine learning algorithm that can be used to solve classification and regression problems. In this project, I implement XGBoost with Python and Scikit-Learn to solve a classification problem. The problem is to classify the customers from two different channels as Horeca (Hotel/Retail/Café) customers or Retail channel (nominal) customers.I have used the `Wholesale customers data set` for this project, downloaded from the UCI Machine learning repository. 
           
           
           * [AdaBoost Classifier Project](https://github.com/pb111/AdaBoost-Classifier-Project)
