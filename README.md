@@ -55,12 +55,10 @@ The projects are divided into various categories listed below:-
        - ### Unsupervised Learning Projects
        
        
-          * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md)
-          
+          * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md): K-Means clustering is one of the most popular unsupervised machine learning algorithm. It is used to find homogeneous groups in the data that display the same behaviour. In this project, I implement K-Means clustering with Python and Scikit-Learn.        
           
                            
-       
-           
+            
        
        
    - ### Recommender Systems Project
