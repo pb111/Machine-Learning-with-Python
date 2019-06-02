@@ -127,6 +127,4 @@ The projects are divided into various categories listed below:-
        - [Data Visualization with Seaborn](https://github.com/pb111/Data-Visualization-with-Seaborn): In this project, I describe Seaborn, which is the Python data visualization library based on Matplotlib.
        
        
-   - ### Miscellaneous Projects
    
-       - [Web scrapping with Python and BeautifulSoup](https://github.com/pb111/Web-scrapping-with-Python-and-BeautifulSoup/blob/master/README.md)
