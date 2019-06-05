@@ -55,7 +55,7 @@ The projects are divided into various categories listed below:-
        - ### Unsupervised Learning Projects
        
        
-          * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md): K-Means clustering is the most popular unsupervised machine learning algorithm. It is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used `Facebook Live Sellers in Thailand` dataset for this project. I implement K-Means clustering to find intrinsic groups within this dataset that display the same `status_type` behaviour. The `status_type` behaviour variable consists of posts of a different nature (video, photos, statuses and links).
+          * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md): K-Means clustering is the most popular unsupervised machine learning algorithm. It is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used `Facebook Live Sellers in Thailand` dataset for this project. I implement K-Means clustering to find intrinsic groups within this dataset that display the same `status_type` behaviour. It consists of posts of different natures (video, photos, statuses and links).
           
                            
             
