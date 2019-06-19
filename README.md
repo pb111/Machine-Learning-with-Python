@@ -47,7 +47,7 @@ The projects are divided into various categories listed below:-
 
 
                     
-          * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classifier-Project): **XGBoost** is an acronym for **Extreme Gradient Boosting**. In this project, I implement XGBoost with Python and Scikit-Learn to solve a classification problem. The problem is to classify the customers from two different channels as Horeca (Hotel/Retail/Café) customers or Retail channel (nominal) customers.I have used the `Wholesale customers data set` for this project, downloaded from the UCI Machine learning repository. 
+          * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classifier-Project): **XGBoost** is an acronym for **Extreme Gradient Boosting**. In this project, I implement XGBoost with Python and Scikit-Learn to solve a classification problem. The problem is to classify the customers from two different channels as Horeca (Hotel/Retail/Café) customers or Retail channel (nominal) customers.I have used the `Wholesale customers data set` from the UCI Machine learning repository. 
           
           
                    
