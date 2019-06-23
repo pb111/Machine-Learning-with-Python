@@ -78,7 +78,7 @@ The projects are divided into various categories listed below:-
        - [Inferential Statistics Project](https://github.com/pb111/Inferential-Statistics-Project/blob/master/README.md): **Inferential Statistics** is the process of drawing inferences about the population from the sample data. In this project, I have discussed various inferential statistical concepts and their practical applications. In particular, I have discussed `Central Limit Theorem`, `t-test`, `ANOVA` , `Chi-square goodness of fit test` and `Correlation coefficient`.
        
        
-       - [Hypothesis Testing Project](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/README.md): This project is dedicated towards a very important statistical tool called `Hypothesis Testing`. In this project, I have discussed, `Hypothesis Testing`, `Types of errors in hypothesis testing`, `z  test`. I have also demonstrated their practical applications.
+       - [Hypothesis Testing Project](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/README.md): **Hypothesis testing** is a statistical tool to test an assumption regarding the population parameter. This project is dedicated towards `hypothesis testing`. In this project, I have discussed, `hypothesis testing`, `p-value`, `significance level`, `types of errors in hypothesis testing` and `z  test`. I have also demonstrated their practical applications.
    
    
    -  ### Data Cleaning and Preprocessing Projects
