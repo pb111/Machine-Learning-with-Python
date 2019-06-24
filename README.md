@@ -93,14 +93,10 @@ The projects are divided into various categories listed below:-
        - [Data Preprocessing Project-Feature Scaling](https://github.com/pb111/Data-Preprocessing-Project-Feature-Scaling/blob/master/Data%20Preprocessing%20Project%20-%20Feature%20Scaling.ipynb): **Feature Scaling** is the process which is used to standardize the range of independent variables so that they can be mapped onto the same scale. In this project, I have discussed useful estimators related to Feature Scaling. The estimators are `MinMaxScaler`, `StandardScaler`, `MaxAbsScaler`, `RobustScaler`, `Normalizer`, `Binarizer` and `scale`.
        
        
-       - [Data Preprocessing Project- Imbalanced Classes Problem](https://github.com/pb111/Data-Preprocessing-Project-Imbalanced-Classes-Problem/blob/master/Data%20Preprocessing%20Project%20-%20Imbalanced%20Classes%20Problem.ipynb): **Imbalanced classes** is one of the major problems in machine learning. In this project, I discuss imbalanced classes problem and the approaches to deal with this problem. I have used the **Credit Card Fraud Detection** dataset, downloaded from the Kaggle website, for this project.
+       - [Data Preprocessing Project- Imbalanced Classes Problem](https://github.com/pb111/Data-Preprocessing-Project-Imbalanced-Classes-Problem/blob/master/Data%20Preprocessing%20Project%20-%20Imbalanced%20Classes%20Problem.ipynb): **Imbalanced classes** is one of the major problems in machine learning. In this project, I discuss imbalanced classes problem and the approaches to deal with this problem. I have used the **Credit Card Fraud Detection** dataset, downloaded from the Kaggle website, for this project.     
        
-       
-       
-       - [Data Preprocessing Project - Feature Engineering](https://github.com/pb111/Data-Preprocessing-Project-Feature-Engineering/blob/master/README.md): This project is about **Feature Engineering**.
-       
-       
-       
+         
+        
        
    - ### Data Analysis Projects
    
