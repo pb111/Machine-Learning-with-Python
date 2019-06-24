@@ -61,7 +61,7 @@ The projects are divided into various categories listed below:-
             
        
        
-   - ### [Recommender Systems with Python Project](https://github.com/pb111/Recommender-Systems-with-Python/blob/master/README.md): Recommender Systems
+   - ### [Recommender Systems with Python](https://github.com/pb111/Recommender-Systems-with-Python/blob/master/README.md): Recommender Systems
    
    
    
