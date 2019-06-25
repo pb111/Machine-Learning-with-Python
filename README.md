@@ -21,10 +21,8 @@ The projects are divided into various categories listed below:-
           
           * [Polynomial Regression Project](https://github.com/pb111/Decision-Tree-and-Random-Forest-Regression-Project/blob/master/README.md)
           
-          * [Regularized Regression Project](https://github.com/pb111/Regularized-Regression-Project)
-          
-          
-          
+          * [Regularized Regression Project](https://github.com/pb111/Regularized-Regression-Project)         
+               
           
 
       - ### Supervised Learning : Classification Projects
@@ -58,10 +56,10 @@ The projects are divided into various categories listed below:-
           * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used `Facebook Live Sellers in Thailand` dataset for this project. I find intrinsic groups within this dataset that display the same `status_type` behaviour. It consists of posts of different natures (video, photos, statuses and links).
           
                            
-            
+  - ### Popular Data Science Projects      
        
        
-   - ### [Recommender Systems with Python](https://github.com/pb111/Recommender-Systems-with-Python/blob/master/README.md): Recommender Systems are one of the most popular and widely used application of data science. In this project, I build a `Recommender System with Python`. I discuss various types - `Content-based filtering recommender system` and `Collaborative filtering recommender system`. Also, I discuss various ways to improve the `Recommender Systems`. I discuss `matrix factorization`.
+      - ### [Recommender Systems with Python](https://github.com/pb111/Recommender-Systems-with-Python/blob/master/README.md): Recommender Systems are one of the most popular and widely used application of data science. In this project, I build a `Recommender System with Python`. I discuss various types - `Content-based filtering recommender system` and `Collaborative filtering recommender system`. Also, I discuss various ways to improve the `Recommender Systems`. I discuss `matrix factorization`.
    
    
    
@@ -69,8 +67,7 @@ The projects are divided into various categories listed below:-
        
        
   
-   -  ### Statistical Analysis Projects
-   
+   -  ### Statistical Analysis Projects   
    
        - [Descriptive Statistics Project](https://github.com/pb111/Descriptive-Statistics-Project/blob/master/Descriptive%20Statistics%20with%20Python.ipynb): **Descriptive Statistics** is the subject matter of this project. Descriptive statistics gives us the basic summary measures about the dataset.  The summary measures include measures of central tendency (mean, median and mode) and measures of variability (variance, standard deviation, minimum/maximum values, IQR (Interquartile Range), skewness and kurtosis). I have used the `fortune 500 dataset` from the data world website for this project.
        
