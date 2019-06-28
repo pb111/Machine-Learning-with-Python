@@ -56,7 +56,7 @@ The projects are divided into various categories listed below:-
           * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used `Facebook Live Sellers in Thailand` dataset for this project. I find intrinsic groups within this dataset that display the same `status_type` behaviour. It consists of posts of different natures (video, photos, statuses and links).
           
                            
-  - ### Miscellaneous Data Science Projects      
+    - ### Miscellaneous Data Science Projects      
               
        - [Recommender Systems with Python](https://github.com/pb111/Recommender-Systems-with-Python/blob/master/README.md): Recommender Systems are one of the most popular and widely used application of data science. In this project, I build a `Recommender System with Python`. I discuss various types - `Content-based filtering recommender system` and `Collaborative filtering recommender system`. Also, I discuss various ways to improve the `Recommender Systems`. I discuss `matrix factorization`.
    
@@ -64,20 +64,20 @@ The projects are divided into various categories listed below:-
             
        
   
-   -  ### Statistical Analysis Projects   
+    -  ### Statistical Analysis Projects   
    
-       - [Descriptive Statistics Project](https://github.com/pb111/Descriptive-Statistics-Project/blob/master/Descriptive%20Statistics%20with%20Python.ipynb): **Descriptive Statistics** is the subject matter of this project. Descriptive statistics gives us the basic summary measures about the dataset.  The summary measures include measures of central tendency (mean, median and mode) and measures of variability (variance, standard deviation, minimum/maximum values, IQR (Interquartile Range), skewness and kurtosis). I have used the `fortune 500 dataset` from the data world website for this project.
+       * [Descriptive Statistics Project](https://github.com/pb111/Descriptive-Statistics-Project/blob/master/Descriptive%20Statistics%20with%20Python.ipynb): **Descriptive Statistics** is the subject matter of this project. Descriptive statistics gives us the basic summary measures about the dataset.  The summary measures include measures of central tendency (mean, median and mode) and measures of variability (variance, standard deviation, minimum/maximum values, IQR (Interquartile Range), skewness and kurtosis). I have used the `fortune 500 dataset` from the data world website for this project.
        
        
-       - [Inferential Statistics Project](https://github.com/pb111/Inferential-Statistics-Project/blob/master/README.md): **Inferential Statistics** is the process of drawing inferences about the population from the sample data. In this project, I have discussed various inferential statistical concepts and their practical applications. In particular, I have discussed `Central Limit Theorem`, `t-test`, `ANOVA` , `Chi-square goodness of fit test` and `Correlation analysis`.
+       * [Inferential Statistics Project](https://github.com/pb111/Inferential-Statistics-Project/blob/master/README.md): **Inferential Statistics** is the process of drawing inferences about the population from the sample data. In this project, I have discussed various inferential statistical concepts and their practical applications. In particular, I have discussed `Central Limit Theorem`, `t-test`, `ANOVA` , `Chi-square goodness of fit test` and `Correlation analysis`.
        
        
-       - [Hypothesis Testing Project](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/README.md): **Hypothesis testing** is a statistical tool to test an assumption regarding the population parameter. This project is dedicated towards `hypothesis testing`. In this project, I have discussed, `hypothesis testing`, `p-value`, `significance level`, `types of errors in hypothesis testing` and   `one-tailed and two-tailed test`.   
+       * [Hypothesis Testing Project](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/README.md): **Hypothesis testing** is a statistical tool to test an assumption regarding the population parameter. This project is dedicated towards `hypothesis testing`. In this project, I have discussed, `hypothesis testing`, `p-value`, `significance level`, `types of errors in hypothesis testing` and   `one-tailed and two-tailed test`.   
        
    
-   -  ### Data Cleaning and Preprocessing Projects
+    -  ### Data Cleaning and Preprocessing Projects
    
-       - [Data Cleaning with Python and Pandas](https://github.com/pb111/Data-Cleaning-with-Python-NumPy-and-Pandas/blob/master/Data%20Cleaning%20with%20Python%20and%20Pandas.ipynb): In this project, I discuss `principles of tidy data` and `signs of an untidy data`. I discuss EDA and present ways to deal with `outliers` and `missing and negative numerical values`. I discuss how to check for missing values with `ASSERT` statement. I present how to reshape data using the Pandas `melt()` function.
+       * [Data Cleaning with Python and Pandas](https://github.com/pb111/Data-Cleaning-with-Python-NumPy-and-Pandas/blob/master/Data%20Cleaning%20with%20Python%20and%20Pandas.ipynb): In this project, I discuss `principles of tidy data` and `signs of an untidy data`. I discuss EDA and present ways to deal with `outliers` and `missing and negative numerical values`. I discuss how to check for missing values with `ASSERT` statement. I present how to reshape data using the Pandas `melt()` function.
        
    
        - [Data Preprocessing Project- Dealing with missing numerical values](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Missing-Numerical-Values/blob/master/Data%20Preprocessing%20Project%20-%20Dealing%20with%20Missing%20Numerical%20Values.ipynb): This project describes various techniques to deal with missing numerical values. 
