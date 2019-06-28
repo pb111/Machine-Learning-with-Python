@@ -77,7 +77,7 @@ The projects are divided into various categories listed below:-
    
    -  ### Data Cleaning and Preprocessing Projects
    
-       - [Data Cleaning with Python and Pandas](https://github.com/pb111/Data-Cleaning-with-Python-NumPy-and-Pandas/blob/master/Data%20Cleaning%20with%20Python%20and%20Pandas.ipynb): In this project, I discuss how to clean a messy dataset. I discuss `principles of tidy data` and `signs of an untidy data`. I discuss EDA and present ways to deal with `outliers` and `missing and negative numerical values`. I discuss how to check for missing values with `ASSERT` statement. I present the use of Pandas `melt()` function.
+       - [Data Cleaning with Python and Pandas](https://github.com/pb111/Data-Cleaning-with-Python-NumPy-and-Pandas/blob/master/Data%20Cleaning%20with%20Python%20and%20Pandas.ipynb): In this project, I discuss `principles of tidy data` and `signs of an untidy data`. I discuss EDA and present ways to deal with `outliers` and `missing and negative numerical values`. I discuss how to check for missing values with `ASSERT` statement. I present how to reshape data using the Pandas `melt()` function.
        
    
        - [Data Preprocessing Project- Dealing with missing numerical values](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Missing-Numerical-Values/blob/master/Data%20Preprocessing%20Project%20-%20Dealing%20with%20Missing%20Numerical%20Values.ipynb): This project describes various techniques to deal with missing numerical values. 
