@@ -28,11 +28,11 @@ The projects are divided into various categories listed below:-
       - ### Supervised Learning : Classification Projects
       
       
-          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I train a binary classification Logistic Regression model to predict whether or not it will rain tomorrow in Australia. I have used **Rain in Australia** dataset from the Kaggle website. I have demonstrated feature Engineering techniques alongwith **Recursive Feature Elimination with Cross-validation**, **k-fold Cross Validation** and **GridSearch CV** in this project.
+          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I train a binary Logistic Regression classifier to predict whether or not it will rain tomorrow in Australia. I have used **Rain in Australia** dataset from the Kaggle website. I have demonstrated feature engineering techniques alongwith **Recursive Feature Elimination with Cross-validation**, **k-fold Cross Validation** and **GridSearch CV** in this project.
                     
-          * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/Support%20Vector%20Machines%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the **Predicting a Pulsar Star** dataset from the Kaggle website. I have also discussed the **kernel trick** in this project. I have used **Stratified Cross-Validation** technique alongwith **GridSearch CV** in this project.     
+          * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/Support%20Vector%20Machines%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the **Predicting a Pulsar Star** dataset from the Kaggle website. I have  discussed the **kernel trick** in this project. I have used **Stratified Cross-Validation** technique alongwith **GridSearch CV** in this project.     
           
-          * [k Nearest Neighbours Project](https://github.com/pb111/k-Nearest-Neighbours-Project/blob/master/k%20Nearest%20Neighbours%20with%20Python%20and%20Scikit-Learn.ipynb): k Nearest Neighbours is a very simple machine learning algorithm. In this project, I build a k Nearest Neighbours classifier to classify the patients suffering from Breast Cancer. I have used the **Breast Cancer Wisconsin (Original) Data Set** from the UCI Machine Learning Repository.
+          * [k Nearest Neighbours Project](https://github.com/pb111/k-Nearest-Neighbours-Project/blob/master/k%20Nearest%20Neighbours%20with%20Python%20and%20Scikit-Learn.ipynb): k Nearest Neighbours is the simplest of all machine learning algorithms. In this project, I build a kNN classifier to classify the patients suffering from Breast Cancer. I have used the **Breast Cancer Wisconsin (Original) Data Set** from the UCI Machine Learning Repository.
           
           
           * [Naive Bayes Classification Project](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/Na%C3%AFve%20Bayes%20Classification%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a Naïve Bayes Classifier to classify a person's salary. I implement Naive Bayes Classification with Python and Scikit-Learn to predict whether a person makes over 50K a year. I have used **Adult Data Set** from the UCI Machine Learning Repository website.
@@ -45,7 +45,7 @@ The projects are divided into various categories listed below:-
 
 
                     
-          * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classifier-Project): **XGBoost** is an acronym for **Extreme Gradient Boosting**. In this project, I implement XGBoost with Python and Scikit-Learn to solve a classification problem. The problem is to classify the customers from two different channels as Horeca (Hotel/Retail/Café) customers or Retail channel (nominal) customers.I have used the `Wholesale customers data set` from the UCI Machine learning repository. 
+          * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classifier-Project): **XGBoost** is an acronym for **Extreme Gradient Boosting**. In this project, I implement XGBoost with Python and Scikit-Learn to classify the customers from two different channels as Horeca (Hotel/Retail/Café) customers or Retail channel (nominal) customers.I have used **Wholesale customers data set** from UCI Machine learning repository. 
           
           
                    
@@ -53,7 +53,7 @@ The projects are divided into various categories listed below:-
        - ### Unsupervised Learning Projects
        
        
-          * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used `Facebook Live Sellers in Thailand` dataset for this project. I find intrinsic groups within this dataset that display the same `status_type` behaviour. It consists of posts of different natures (video, photos, statuses and links).
+          * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used **Facebook Live Sellers in Thailand** dataset for this project. I find intrinsic groups within this dataset that display the same status_type behaviour. It consists of posts of different natures (video, photos, statuses and links).
           
                            
   - ### Miscellaneous Data Science Projects      
@@ -63,21 +63,21 @@ The projects are divided into various categories listed below:-
   
   -  ### Statistical Analysis Projects   
    
-       - [Descriptive Statistics Project](https://github.com/pb111/Descriptive-Statistics-Project/blob/master/Descriptive%20Statistics%20with%20Python.ipynb): Descriptive Statistics is the subject matter of this project. It gives us the basic summary measures about the dataset.  The summary measures include measures of central tendency (mean, median and mode) and measures of variability (variance, standard deviation, minimum/maximum values, IQR (Interquartile Range), skewness and kurtosis). 
+       - [Descriptive Statistics Project](https://github.com/pb111/Descriptive-Statistics-Project/blob/master/Descriptive%20Statistics%20with%20Python.ipynb): **Descriptive Statistics** is the subject matter of this project. It gives us the basic summary measures about the dataset.  The summary measures include measures of central tendency (mean, median and mode) and measures of variability (variance, standard deviation, minimum/maximum values, IQR (Interquartile Range), skewness and kurtosis). 
        
        
-       - [Inferential Statistics Project](https://github.com/pb111/Inferential-Statistics-Project/blob/master/README.md): Inferential Statistics is the process of drawing inferences about the population from the sample data. In this project, I have discussed various inferential statistical concepts and their practical applications. I have discussed Central Limit Theorem, t-test, ANOVA , Chi-square goodness of fit test and Correlation analysis.
+       - [Inferential Statistics Project](https://github.com/pb111/Inferential-Statistics-Project/blob/master/README.md): **Inferential Statistics** is the process of drawing inferences about the population from the sample data. In this project, I have discussed various inferential statistical concepts and their practical applications. I have discussed Central Limit Theorem, t-test, ANOVA , Chi-square goodness of fit test and Correlation analysis.
        
        
-       - [Hypothesis Testing Project](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/README.md): Hypothesis testing is a statistical tool to test an assumption regarding the population parameter. This project is dedicated towards hypothesis testing. In this project, I have discussed, hypothesis testing, p-value, significance level, types of errors in hypothesis testing and one-tailed and two-tailed tests.   
+       - [Hypothesis Testing Project](https://github.com/pb111/Hypothesis-Testing-Project/blob/master/README.md): **Hypothesis testing** is a statistical tool to test an assumption regarding the population parameter. This project is dedicated towards hypothesis testing. In this project, I have discussed, hypothesis testing, p-value, significance level, types of errors in hypothesis testing and one-tailed and two-tailed tests.   
        
    
   -  ### Data Cleaning and Preprocessing Projects
    
-       - [Data Cleaning with Python and Pandas](https://github.com/pb111/Data-Cleaning-with-Python-NumPy-and-Pandas/blob/master/Data%20Cleaning%20with%20Python%20and%20Pandas.ipynb): In this project, I discuss principles of tidy data and signs of an untidy data. I discuss EDA and present ways to deal with outliers and missing and negative numerical values. I discuss how to check for missing values with ASSERT statement. I present how to reshape data using the pandas melt() function.
+       - [Data Cleaning with Python and Pandas](https://github.com/pb111/Data-Cleaning-with-Python-NumPy-and-Pandas/blob/master/Data%20Cleaning%20with%20Python%20and%20Pandas.ipynb): In this project, I discuss principles of tidy data and signs of an untidy data. I discuss EDA and present ways to deal with outliers and missing and negative numerical values. I discuss how to check for missing values with **ASSERT** statement. I present how to reshape data using the pandas melt() function.
        
    
-       - [Data Preprocessing Project- Dealing with missing numerical values](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Missing-Numerical-Values/blob/master/Data%20Preprocessing%20Project%20-%20Dealing%20with%20Missing%20Numerical%20Values.ipynb): This project describes various techniques to deal with missing numerical values. I have discussed how to drop missing values, fill missing values with test-statistic and imputer. I discuss how to check for missing values with ASSERT statement.
+       - [Data Preprocessing Project- Dealing with missing numerical values](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Missing-Numerical-Values/blob/master/Data%20Preprocessing%20Project%20-%20Dealing%20with%20Missing%20Numerical%20Values.ipynb): This project describes various techniques to deal with missing numerical values. I have discussed how to drop missing values, fill missing values with test-statistic and imputer. I discuss how to check for missing values with **ASSERT** statement.
        
        - [Data Preprocessing Project- Dealing with text and categorical data](https://github.com/pb111/Data-Preprocessing-Project-Dealing-with-Text-and-Categorical-Data-/blob/master/Data%20Preprocessing%20Project%20-%20Dealing%20with%20Text%20and%20Categorical%20data.ipynb): In this project, I discuss various Scikit-learn classes to deal with text and categorical data. The classes are LabelEncoder, OneHotEncoder, LabelBinarizer, DictVectorizer, CountVectorizer, TfidfVectorizer and TfidfTransformer. I also discuss **tokenization** and **vectorization**.
        
