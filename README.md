@@ -106,7 +106,8 @@ The projects are divided into various categories listed below:-
      
        - [Data Visualization with Matplotlib](https://github.com/pb111/Data-Visualization-with-Matplotlib-Project/blob/master/Data%20Visualization%20with%20Matplotlib.ipynb): **Matplotlib** is the basic data visualization library of Python. In this project, I describe Matplotlib, its object hierarchy, its interfaces, different plot types with Matplotlib and various customization techniques with Matplotlib.
        
-       - [Data Visualization with Seaborn](https://github.com/pb111/Data-Visualization-with-Seaborn): In this project, I describe Seaborn, which is the Python data visualization library based on Matplotlib.
+       - [Data Visualization with Seaborn](https://github.com/pb111/Data-Visualization-with-Seaborn): **Seaborn** is a Python data visualization library based on Matplotlib. In this project, I explore Seaborn. I discuss Seaborn API overview, its functionality, setting Seaborn aesthetic parameters and colour palette. I discuss different distributions, various plot types and multi-plot grids 
+with seaborn.  
        
        
    
