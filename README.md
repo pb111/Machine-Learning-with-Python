@@ -56,7 +56,7 @@ The projects are divided into various categories listed below:-
           
   - ### Deep Learning with Python 
   
-       * [Artificial Neural Network Project](https://github.com/pb111/Artificial-Neural-Network)
+       * [Artificial Neural Network Project](https://github.com/pb111/Artificial-Neural-Network): Artificial Neural Network with Python and Tensorflow.
           
                            
   - ### Miscellaneous Data Science Projects      
