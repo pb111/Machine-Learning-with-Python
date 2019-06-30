@@ -55,6 +55,9 @@ The projects are divided into various categories listed below:-
        
           * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used **Facebook Live Sellers in Thailand** dataset for this project. I find intrinsic groups within this dataset that display the same status_type behaviour. It consists of posts of different natures (video, photos, statuses and links).
           
+          
+  - ### Deep Learning with Python 
+          
                            
   - ### Miscellaneous Data Science Projects      
               
