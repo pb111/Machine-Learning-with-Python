@@ -48,7 +48,7 @@ The projects are divided into various categories listed below:-
        - ### Unsupervised Learning Projects
        
        
-          * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/README.md): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used **Facebook Live Sellers in Thailand** dataset for this project from the UCI machine learning repository. 
+          * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/K-Means%20Clustering%20with%20Python%20and%20Scikit-Learn.ipynb): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used **Facebook Live Sellers in Thailand** dataset for this project from the UCI machine learning repository. 
           
   - ### Deep Learning with Python 
   
