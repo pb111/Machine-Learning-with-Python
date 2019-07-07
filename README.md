@@ -56,7 +56,7 @@ The projects are divided into various categories listed below:-
           
   - ### Deep Learning with Python 
   
-       * [Artificial Neural Network Project](https://github.com/pb111/Artificial-Neural-Network): Artificial Neural Network with Python and Tensorflow.
+       * [Artificial Neural Network Project](https://github.com/pb111/Artificial-Neural-Network): **Artificial Neural Network (ANN)** imitates the functioning of human brain. I discuss ANN fundamentals, its structure and functioning, ANN architectures, learning process, back-propagation algorithm, its advantages and disadvantages and ANN applications.
        
        * [Recurrent Neural Network Project](https://github.com/pb111/Recurrent-Neural-Network): Recurrent Neural Network with Python and Tensorflow.
           
