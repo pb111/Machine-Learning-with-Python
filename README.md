@@ -59,7 +59,7 @@ The projects are divided into various categories listed below:-
        * [Convolutional Neural Network Project](https://github.com/pb111/Convolutional-Neural-Network): Convolutional Neural Network with Python and Tensorflow.
        
        
-  - ### Recommender Systems Projects      
+  - ### Recommender Systems Project   
               
        - [Recommender Systems with Python](https://github.com/pb111/Recommender-Systems-with-Python/blob/master/README.md): Recommender Systems are one of the most popular and widely used application of data science. In this project, I build a Recommender System with Python. I discuss various types of recommender systems including **Content-based** and **Collaborative filtering** recommender systems. Also, I discuss **matrix factorization** and how to evaluate recommender systems.
    
