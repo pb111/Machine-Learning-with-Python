@@ -54,7 +54,7 @@ The projects are divided into various categories listed below:-
   
        * [Artificial Neural Network Project](https://github.com/pb111/Artificial-Neural-Network): **Artificial Neural Network (ANN)** imitates the functioning of human brain. In this project, I discuss ANN fundamentals, its structure and functioning, ANN architectures, learning process, back-propagation algorithm, its advantages and disadvantages and ANN applications.
        
-       * [Recurrent Neural Network Project](https://github.com/pb111/Recurrent-Neural-Network): Recurrent Neural Network with Python and Tensorflow.
+       * [Recurrent Neural Network Project](https://github.com/pb111/Recurrent-Neural-Network): **Recurrent Neural Network (RNN)** with Python and Tensorflow.
           
        * [Convolutional Neural Network Project](https://github.com/pb111/Convolutional-Neural-Network): Convolutional Neural Network with Python and Tensorflow.
        
