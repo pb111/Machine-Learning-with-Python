@@ -12,7 +12,7 @@ The projects are divided into various categories listed below:-
  
   - ### Machine Learning with Python 
       
-      -  ### Supervised Learning : Regression Projects 
+      -  ### Supervised Learning : Regression Project
    
           * [Simple Linear Regression Project](https://github.com/pb111/Simple-Linear-Regression-Project/blob/master/SLRProject.ipynb): A Simple Linear Regression model to model the linear relationship between Sales and Advertising dataset for a dietary weight control product.   
        
