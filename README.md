@@ -56,7 +56,7 @@ The projects are divided into various categories listed below:-
        
        * [Recurrent Neural Network Project](https://github.com/pb111/Recurrent-Neural-Network): **Recurrent Neural Network (RNN)** with Python and Tensorflow.
           
-       * [Convolutional Neural Network Project](https://github.com/pb111/Convolutional-Neural-Network): Convolutional Neural Network with Python and Tensorflow.
+       * [Convolutional Neural Network Project](https://github.com/pb111/Convolutional-Neural-Network): **Convolutional Neural Network (CNN)** with Python and Tensorflow.
        
        
   - ### Recommender Systems Project   
