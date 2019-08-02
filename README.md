@@ -1,6 +1,6 @@
 # Data Science Portfolio in Python
 
-This repository contains Data Science projects in Python programming language completed by me for self-learning and demonstration purposes. 
+This repository contains Data Science projects in Python programming language completed by me for self-learning and demonstration purpose. 
 
 All the projects are done on Jupyter Notebooks (Notebook Server 5.6.0). The server is running on Python version 3.7.0.
 
