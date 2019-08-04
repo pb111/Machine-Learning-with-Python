@@ -8,7 +8,7 @@ Jupyter notebook links are provided in most of the projects. Some projects are s
 
 The projects are divided into various categories listed below:- 
 
-## Content
+## Contents
  
   - ### Machine Learning with Python 
       
