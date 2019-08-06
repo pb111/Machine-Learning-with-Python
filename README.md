@@ -1,4 +1,4 @@
-# Data Science Portfolio in Python
+# Data Science Portfolio in Pytho
 
 This repository contains Data Science projects in Python programming language completed by me for self-learning and demonstration purposes. 
 
