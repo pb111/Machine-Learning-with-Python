@@ -105,7 +105,7 @@ The projects are divided into various categories listed below:-
        - [Time Series Analysis with Python](https://github.com/pb111/Time-series-analysis-with-Python/blob/master/Time%20Series%20Analysis%20in%20Python.ipynb): A time series is a series of data points recorded at different time intervals. The time series analysis means analyzing the time series. In this project, I implement a **Seasonal ARIMA time series model** in Python to predict Occupancy rates of car parks in **Parking Birmingham** Data Set.
        
        
-   - ### Data Visualization Projects
+   - ### Data Visualization Project
      
        - [Data Visualization with Matplotlib](https://github.com/pb111/Data-Visualization-with-Matplotlib-Project/blob/master/Data%20Visualization%20with%20Matplotlib.ipynb): **Matplotlib** is the basic data visualization library of Python. In this project, I describe Matplotlib, its object hierarchy, its interfaces, different plot types with Matplotlib and various customization techniques with Matplotlib.
        
