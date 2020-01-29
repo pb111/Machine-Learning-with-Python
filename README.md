@@ -4,13 +4,20 @@ This repository contains Data Science projects in Python programming language co
 
 All the projects are done on Jupyter Notebooks (Notebook Server 5.6.0). The server is running on Python version 3.7.0.
 
-### Libraries required
+## Libraries required
 
+The following libraries are required to successfully implement the projects.
 
+- Python 3.6+
+- NumPy (for linear algebra)
+- Pandas (for data preprocessing)
+- Scikit-learn (for machine-learning)
+- Matplotlib (for data visualization)
+- Seaborn (for statistical data visualization)
+- SciPy (for scientific computing)
+- Statsmodels (statistical computation)
 
-Jupyter notebook links are provided in most of the projects. Some projects are still in progress. So, jupyter notebook links are not provided in those projects. I will add jupyter notebooks as I complete them. The projects description are given in the readme document.
-
-The projects are divided into various categories listed below:- 
+The projects description are given in the readme document. The projects are divided into various categories listed below:- 
 
 ## Contents
  
