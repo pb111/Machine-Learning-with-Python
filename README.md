@@ -39,36 +39,37 @@ The projects description are given in the readme document. The projects are divi
 ===============================================================================          
           
 
-      - ### Supervised Learning : Classification Projects
+   - ### Supervised Learning : Classification Projects
       
       
-          * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I train a binary Logistic Regression classifier to predict whether or not it will rain tomorrow in Australia. I have used **Rain in Australia** dataset from the Kaggle website. I have demonstrated feature engineering techniques alongwith **Recursive Feature Elimination with Cross-validation**, **k-fold Cross Validation** and **GridSearch CV** in this project.
+        * [Logistic Regression Project](https://github.com/pb111/Logistic-Regression-in-Python-Project/blob/master/Logistic%20Regression%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I train a binary Logistic Regression classifier to predict whether or not it will rain tomorrow in Australia. I have used **Rain in Australia** dataset from the Kaggle website. I have demonstrated feature engineering techniques alongwith **Recursive Feature Elimination with Cross-validation**, **k-fold Cross Validation** and **GridSearch CV** in this project.
+        
                     
-          * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/Support%20Vector%20Machines%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the **Predicting a Pulsar Star** dataset from the Kaggle website. I have  discussed the **kernel trick** in this project. I have used **Stratified Cross-Validation** technique alongwith **GridSearch CV** in this project.     
-          
-          * [k Nearest Neighbours Project](https://github.com/pb111/k-Nearest-Neighbours-Project/blob/master/k%20Nearest%20Neighbours%20with%20Python%20and%20Scikit-Learn.ipynb): k Nearest Neighbours is the simplest of all machine learning algorithms. In this project, I build a kNN classifier to classify the patients suffering from Breast Cancer. I have used the **Breast Cancer Wisconsin (Original) Data Set** from the UCI Machine Learning Repository.
+        * [Support Vector Machines Project](https://github.com/pb111/Support-Vector-Machines-Project/blob/master/Support%20Vector%20Machines%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the **Predicting a Pulsar Star** dataset from the Kaggle website. I have  discussed the **kernel trick** in this project. I have used **Stratified Cross-Validation** technique alongwith **GridSearch CV** in this project.     
           
           
-          * [Naive Bayes Classification Project](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/Na%C3%AFve%20Bayes%20Classification%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a Naïve Bayes Classifier to classify a person's salary. I implement Naive Bayes Classification with Python and Scikit-Learn to predict whether a person makes over 50K a year. I have used **Adult Data Set** from the UCI Machine Learning Repository website.
+        * [k Nearest Neighbours Project](https://github.com/pb111/k-Nearest-Neighbours-Project/blob/master/k%20Nearest%20Neighbours%20with%20Python%20and%20Scikit-Learn.ipynb): k Nearest Neighbours is the simplest of all machine learning algorithms. In this project, I build a kNN classifier to classify the patients suffering from Breast Cancer. I have used the **Breast Cancer Wisconsin (Original) Data Set** from the UCI Machine Learning Repository.
+          
+          
+        * [Naive Bayes Classification Project](https://github.com/pb111/Naive-Bayes-Classification-Project/blob/master/Na%C3%AFve%20Bayes%20Classification%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build a Naïve Bayes Classifier to classify a person's salary. I implement Naive Bayes Classification with Python and Scikit-Learn to predict whether a person makes over 50K a year. I have used **Adult Data Set** from the UCI Machine Learning Repository website.
        
        
-          * [Decision Tree Classification Project](https://github.com/pb111/Decision-Tree-Classification-Project/blob/master/Decision-Tree%20Classification%20with%20Python%20and%20Scikit-Learn.ipynb): Classification and Regression Trees or **CART** are very popular machine learning algorithms. In this project, I build two Decision Tree Classifier models - with criterion **gini** and **entropy** to predict the safety of the car. I have used the **Car Evaluation Data Set** from the UCI Machine Learning Repository website.
+        * [Decision Tree Classification Project](https://github.com/pb111/Decision-Tree-Classification-Project/blob/master/Decision-Tree%20Classification%20with%20Python%20and%20Scikit-Learn.ipynb): Classification and Regression Trees or **CART** are very popular machine learning algorithms. In this project, I build two Decision Tree Classifier models - with criterion **gini** and **entropy** to predict the safety of the car. I have used the **Car Evaluation Data Set** from the UCI Machine Learning Repository website.
           
           
-          * [Random Forest Classification Project](https://github.com/pb111/Random-Forest-Classifier-Project/blob/master/Random%20Forest%20Classification%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build two Random Forest Classifier models (with 10 and 100 decision-trees) to predict safety of the car. The accuracy increases with number of decision-trees. I have also demonstrated the feature selection process using the Random Forest model. I have used the **Car Evaluation Data Set**  from the UCI Machine Learning Repository website.
-
+        * [Random Forest Classification Project](https://github.com/pb111/Random-Forest-Classifier-Project/blob/master/Random%20Forest%20Classification%20with%20Python%20and%20Scikit-Learn.ipynb): In this project, I build two Random Forest Classifier models (with 10 and 100 decision-trees) to predict safety of the car. The accuracy increases with number of decision-trees. I have also demonstrated the feature selection process using the Random Forest model. I have used the **Car Evaluation Data Set**  from the UCI Machine Learning Repository website.
 
                     
-          * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classification-Project/blob/master/XGBoost%20with%20Python%20and%20Scikit-Learn.ipynb): **XGBoost** is an acronym for **Extreme Gradient Boosting**. In this project, I implement XGBoost with Python and Scikit-Learn to classify the customers from two different channels as Horeca (Hotel/Retail/Café) customers or Retail channel (nominal) customers. I have used **Wholesale customers data set** from UCI Machine learning repository.   
+        * [XGBoost Classification Project](https://github.com/pb111/XGBoost-Classification-Project/blob/master/XGBoost%20with%20Python%20and%20Scikit-Learn.ipynb): **XGBoost** is an acronym for **Extreme Gradient Boosting**. In this project, I implement XGBoost with Python and Scikit-Learn to classify the customers from two different channels as Horeca (Hotel/Retail/Café) customers or Retail channel (nominal) customers. I have used **Wholesale customers data set** from UCI Machine learning repository.   
           
           
 ===============================================================================
                             
        
-       - ### Unsupervised Learning Projects
+   - ### Unsupervised Learning Projects
        
        
-          * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/K-Means%20Clustering%20with%20Python%20and%20Scikit-Learn.ipynb): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used **Facebook Live Sellers in Thailand** dataset for this project from the UCI machine learning repository. 
+        * [K Means Clustering Project](https://github.com/pb111/K-Means-Clustering-Project/blob/master/K-Means%20Clustering%20with%20Python%20and%20Scikit-Learn.ipynb): K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences. In this project, I implement K-Means clustering with Python and Scikit-Learn. I have used **Facebook Live Sellers in Thailand** dataset for this project from the UCI machine learning repository. 
           
  
  ===============================================================================
