@@ -1,4 +1,4 @@
-# Data Science Portfolio in Python
+# **Machine Learning with Python**
 
 This repository contains Data Science projects in Python programming language completed by me for self-learning and demonstration purposes. 
 
@@ -6,7 +6,7 @@ All the projects are done on Jupyter Notebooks (Notebook Server 5.6.0). The serv
 
 ===============================================================================
 
-## Libraries required
+## **Libraries required**
 
 The following libraries are required to successfully implement the projects.
 
